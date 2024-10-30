@@ -213,7 +213,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <button type="button" class="btn btn-primary" data-bs-toggle="button">
+                <button type="button" class="btn btn-primary" data-bs-toggle="button" onclick="document.location='filterTable.php'">
                     <img class="icon2" src="pic/icons/icon_all_catalog2.svg">
                     Каталог
                   </button>
